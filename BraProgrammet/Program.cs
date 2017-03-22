@@ -13,6 +13,11 @@ namespace BraProgrammet
             // TODO HEJHOPP
 
             Console.WriteLine("GitHub !");
+
+            for (int i = 0; i < 4; i++)
+            {
+                Console.WriteLine("Heh" + i);
+            }
         }
     }
 }
